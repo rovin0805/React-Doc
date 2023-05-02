@@ -41,7 +41,7 @@
       - 6. [context로 데이터를 깊게 전달하기](https://github.com/rovin0805/React-Doc/blob/master/Learn/Learn_React/3.%20state%20%EA%B4%80%EB%A6%AC/3-6.%20%EC%BB%A8%ED%85%8D%EC%8A%A4%ED%8A%B8%EB%A1%9C%20%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%A5%BC%20%EA%B9%8A%EA%B2%8C%20%EC%A0%84%EB%8B%AC%ED%95%98%EA%B8%B0.md)
       - 7. [reducer와 context로 확장하기](https://github.com/rovin0805/React-Doc/blob/master/Learn/Learn_React/3.%20state%20%EA%B4%80%EB%A6%AC/3-7.%20Reducer%EC%99%80%20Context%EB%A1%9C%20%ED%99%95%EC%9E%A5%ED%95%98%EA%B8%B0.md)
     - 4. 탈출구
-      - 0. 탈출구
+      - 0. [탈출구](https://github.com/rovin0805/React-Doc/blob/master/Learn/Learn_React/4.%20%ED%83%88%EC%B6%9C%EA%B5%AC/0.%20%ED%83%88%EC%B6%9C%EA%B5%AC.md)
       - 1. ref로 값 참조하기
       - 2. ref로 DOM 조작하기
       - 3. effect와 동기화하기
