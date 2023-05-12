@@ -46,7 +46,7 @@
       - 2. [ref로 DOM 조작하기](https://github.com/rovin0805/React-Doc/blob/master/Learn/Learn_React/4.%20%ED%83%88%EC%B6%9C%EA%B5%AC/4-2.%20ref%EB%A1%9C%20DOM%20%20%EC%A1%B0%EC%9E%91%ED%95%98%EA%B8%B0.md)
       - 3. [effect와 동기화하기](https://github.com/rovin0805/React-Doc/blob/master/Learn/Learn_React/4.%20%ED%83%88%EC%B6%9C%EA%B5%AC/4-3.%20Effect%EC%99%80%20%EB%8F%99%EA%B8%B0%ED%99%94%ED%95%98%EA%B8%B0.md)
       - 4. [effect가 필요하지 않을 수도 있습니다](https://github.com/rovin0805/React-Doc/blob/master/Learn/Learn_React/4.%20%ED%83%88%EC%B6%9C%EA%B5%AC/4-4.%20Effect%EA%B0%80%20%ED%95%84%EC%9A%94%ED%95%98%EC%A7%80%20%EC%95%8A%EC%9D%84%20%EC%88%98%EB%8F%84%20%EC%9E%88%EC%8A%B5%EB%8B%88%EB%8B%A4.md)
-      - 5. 반응형 effect의 생명주기
+      - 5. [반응형 effect의 생명주기](https://github.com/rovin0805/React-Doc/blob/master/Learn/Learn_React/4.%20%ED%83%88%EC%B6%9C%EA%B5%AC/4-5.%20%EB%B0%98%EC%9D%91%ED%98%95%20effect%EC%9D%98%20%EC%83%9D%EB%AA%85%EC%A3%BC%EA%B8%B0.md)
       - 6. 이벤트와 effect 분리하기
       - 7. effect의 의존성 제거하기
       - 8. 커스텀 훅으로 로직 재사용하기
