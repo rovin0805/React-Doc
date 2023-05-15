@@ -49,7 +49,7 @@
       - 5. [반응형 effect의 생명주기](https://github.com/rovin0805/React-Doc/blob/master/Learn/Learn_React/4.%20%ED%83%88%EC%B6%9C%EA%B5%AC/4-5.%20%EB%B0%98%EC%9D%91%ED%98%95%20effect%EC%9D%98%20%EC%83%9D%EB%AA%85%EC%A3%BC%EA%B8%B0.md)
       - 6. [이벤트와 effect 분리하기](https://github.com/rovin0805/React-Doc/blob/master/Learn/Learn_React/4.%20%ED%83%88%EC%B6%9C%EA%B5%AC/4-6.%20%EC%9D%B4%EB%B2%A4%ED%8A%B8%EC%99%80%20Effect%20%EB%B6%84%EB%A6%AC%ED%95%98%EA%B8%B0.md)
       - 7. [effect의 의존성 제거하기](https://github.com/rovin0805/React-Doc/blob/master/Learn/Learn_React/4.%20%ED%83%88%EC%B6%9C%EA%B5%AC/4-7.%20Effect%20%EC%9D%98%EC%A1%B4%EC%84%B1%20%EC%A0%9C%EA%B1%B0%ED%95%98%EA%B8%B0.md)
-      - 8. 커스텀 훅으로 로직 재사용하기
+      - 8. [커스텀 훅으로 로직 재사용하기](https://github.com/rovin0805/React-Doc/blob/master/Learn/Learn_React/4.%20%ED%83%88%EC%B6%9C%EA%B5%AC/4-8.%20%EC%BB%A4%EC%8A%A4%ED%85%80%20%ED%9B%85%EC%9C%BC%EB%A1%9C%20%EB%A1%9C%EC%A7%81%20%EC%9E%AC%EC%82%AC%EC%9A%A9%ED%95%98%EA%B8%B0.md)
 - Reference
   - react @18.2.0
     - Components
