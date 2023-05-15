@@ -49,7 +49,7 @@
   - react @18.2.0
     - [Components](https://github.com/rovin0805/React-Doc/blob/master/Reference/react%20%4018.2.0/Components/0.%20Components.md)
       - [`<Fragment>`(<></>)](https://github.com/rovin0805/React-Doc/blob/master/Reference/react%20%4018.2.0/Components/1.%20%3CFragment%3E.md)
-      - `<Profiler>`
+      - [`<Profiler>`](https://github.com/rovin0805/React-Doc/blob/master/Reference/react%20%4018.2.0/Components/2.%20%3CProfiler%3E.md)
       - `<StrictMode>`
       - `<Suspense>`
     - Hooks
