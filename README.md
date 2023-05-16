@@ -50,7 +50,7 @@
     - [Components](https://github.com/rovin0805/React-Doc/blob/master/Reference/react%20%4018.2.0/Components/0.%20Components.md)
       - [`<Fragment>`(<></>)](https://github.com/rovin0805/React-Doc/blob/master/Reference/react%20%4018.2.0/Components/1.%20%3CFragment%3E.md)
       - [`<Profiler>`](https://github.com/rovin0805/React-Doc/blob/master/Reference/react%20%4018.2.0/Components/2.%20%3CProfiler%3E.md)
-      - `<StrictMode>`
+      - [`<StrictMode>`](https://github.com/rovin0805/React-Doc/blob/master/Reference/react%20%4018.2.0/Components/3.%20%3CStrictMode%3E.md)
       - `<Suspense>`
     - Hooks
       - useState
