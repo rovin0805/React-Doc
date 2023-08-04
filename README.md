@@ -60,7 +60,7 @@
       - [useImperativeHandle](https://github.com/rovin0805/React-Doc/blob/master/Reference/react%20%4018.2.0/Hooks/5.%20useImperativeHandle.md)
       - [useEffect](https://github.com/rovin0805/React-Doc/blob/master/Reference/react%20%4018.2.0/Hooks/6.%20useEffect.md)
       - [useLayoutEffect](https://github.com/rovin0805/React-Doc/blob/master/Reference/react%20%4018.2.0/Hooks/7.%20useLayoutEffect.md)
-      - useInsertionEffect
+      - [useInsertionEffect](https://github.com/rovin0805/React-Doc/blob/master/Reference/react%20%4018.2.0/Hooks/8.%20useInsertionEffect.md)
       - useMemo
       - useCallback
       - useTransition
