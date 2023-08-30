@@ -64,7 +64,7 @@
       - useMemo
       - useCallback
       - useTransition
-      - useDeferredValue
+      - [useDeferredValue](https://github.com/rovin0805/React-Doc/blob/master/Reference/react%20%4018.2.0/Hooks/12.%20useDeferredValue.md)
       - useDebugValue
       - useId
       - useSyncExternalStore
