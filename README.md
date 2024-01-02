@@ -67,7 +67,7 @@
       - [useDeferredValue](https://github.com/rovin0805/React-Doc/blob/master/Reference/react%20%4018.2.0/Hooks/12.%20useDeferredValue.md)
       - [useDebugValue](https://github.com/rovin0805/React-Doc/blob/master/Reference/react%20%4018.2.0/Hooks/13.%20useDebugValue.md)
       - [useId](https://github.com/rovin0805/React-Doc/blob/master/Reference/react%20%4018.2.0/Hooks/14.%20useId.md)
-      - useSyncExternalStore
+      - [useSyncExternalStore](https://github.com/rovin0805/React-Doc/blob/master/Reference/react%20%4018.2.0/Hooks/15.%20useSyncExternalStore.md)
     - APIs
       - createContext
       - forwardRef
